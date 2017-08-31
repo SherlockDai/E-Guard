@@ -1,0 +1,5 @@
+Please extract the Client Folder and use chrome browser to load the Client Folder as an extension;
+Please use mysql as the database and import the data;
+Please use apache as the server;
+I used netBeans as the IDE for PHP coding;
+I used JetBrains WebStorm as the IDE for javscript, html, css coding.
